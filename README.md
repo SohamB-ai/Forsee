@@ -2,6 +2,11 @@
 
 Forsee AI is an advanced enterprise predictive intelligence operating system designed for industrial assets. It transforms maintenance from a reactive cost into a predictive advantage by identifying early degradation signals and predicting failures before they occur.
 
+ADMIN LOGIN - 
+USERNAME - soham#dev 
+PASSKEY - aaaaaaaa
+
+
 ## 🚀 Key Features
 
 - **Early Degradation Detection**: Identify subtle precursor signals invisible to traditional threshold-based systems.
